@@ -1,1 +1,0 @@
-snail_rect.left = 800
