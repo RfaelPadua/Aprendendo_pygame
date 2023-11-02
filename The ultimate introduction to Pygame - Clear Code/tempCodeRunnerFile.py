@@ -1,1 +1,1 @@
-64,64,64
+snail_rect.left = 800
